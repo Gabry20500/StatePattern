@@ -1,7 +1,7 @@
 #pragma once
 
 #include "State.h"
-#include "UJumpState.generated.h"
+#include "Jump_State.generated.h"
 
 UCLASS(BlueprintSpawnableComponent)
 class UJumpState : public UState
