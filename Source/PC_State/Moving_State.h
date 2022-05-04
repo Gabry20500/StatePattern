@@ -3,7 +3,7 @@
 #include "Moving_State.generated.h"
 
 
-UCLASS(meta = (BlueprintSpawnableComponent))
+UCLASS(BlueprintSpawnableComponent)
 class UMovingState : public UState
 {
 	GENERATED_BODY()
